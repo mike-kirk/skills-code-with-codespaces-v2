@@ -1,3 +1,4 @@
 {
   "name": "Universal - Latest",
-  "image": "mcr.microsoft.com/devcontainers/universal:late
+  "image": "mcr.microsoft.com/devcontainers/universal:late"
+}
